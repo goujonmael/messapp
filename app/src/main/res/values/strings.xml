@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MessApp2</string>
+
+    <!-- User IDs -->
+    <string-array name="user_ids">
+        <item>1234</item>
+        <item>1235</item>
+        <item>1236</item>
+        <item>1237</item>
+        <item>1238</item>
+        <item>1239</item>
+        <item>1240</item>
+        <item>1241</item>
+        <item>1242</item>
+        <item>1243</item>
+    </string-array>
+
+    <!-- Message content -->
+    <string-array name="message_content">
+        <item>Hello, how are you?</item>
+        <item>Hi there! I\'m good, thanks.</item>
+        <item>That\'s great to hear!</item>
+        <item>Yeah, it\'s been a good day.</item>
+        <item>What have you been up to?</item>
+        <item>Not much, just working on some code.</item>
+        <item>Cool! Any interesting projects?</item>
+        <item>Yeah, I\'m building an Android app.</item>
+        <item>That sounds awesome! Best of luck with it.</item>
+        <item>Thanks! I\'ll keep you updated.</item>
+    </string-array>
+</resources>
